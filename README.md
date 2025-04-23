@@ -22,19 +22,13 @@ socket and time are built-in Python modules and do not require installation.
 To install the required module, run:
 
 bash
-Kopyala
-Düzenle
 pip install -r requirements.txt
 Or install it manually:
 
 bash
-Kopyala
-Düzenle
 pip install colorama
 🚀 Usage
 bash
-Kopyala
-Düzenle
 python port_tester.py
 Then follow the prompts in the terminal to:
 
@@ -46,16 +40,12 @@ Get instant feedback on the port status.
 
 🖥️ Example Output
 bash
-Kopyala
-Düzenle
 Enter target IP: 8.8.8.8
 Enter port: 53
 [✓] Port 53 is open on 8.8.8.8
 or
 
 bash
-Kopyala
-Düzenle
 [✗] Port 80 is closed on 8.8.8.8
 🛠️ Tech Stack
 Python 3
